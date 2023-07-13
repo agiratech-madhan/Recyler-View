@@ -8,6 +8,18 @@ object TaskList {
         Task("Take a Step", timestamp = "7:00 AM"),
         Task("Take a Step", timestamp = "7:00 AM"),
         Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
+        Task("Take a Step", timestamp = "7:00 AM"),
         Task("Take a Step", timestamp = "7:00 AM")
     )
 }
