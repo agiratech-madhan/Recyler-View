@@ -1,0 +1,9 @@
+step 1
+create Recycler view item
+ recyclerview_item.xml
+    - text view
+    -textview
+     -view
+ in MainActivity.xml
+  create recycler view
+  add list items
